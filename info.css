@@ -32,3 +32,19 @@ body {
     padding-left: 5vw;
     padding-right: 5vw;
 }
+
+.bottomButtons {
+    position: absolute;
+    bottom: 0vw;
+    width: 50vw;
+    margin-left: 0;
+    height: 13vw;
+    background-color: rgb(240, 240, 240);
+    font-size: 7vw;
+    float: left;
+}
+
+#secondButton {
+    margin-left: 50vw;
+}
+

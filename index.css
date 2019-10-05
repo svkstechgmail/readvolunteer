@@ -17,8 +17,8 @@ body {
     width: 80vw;
     margin-left: 10vw;
     height: auto;
-    margin-top: 0;
-    margin-bottom: 10vw;
+    margin-top: 10vw;
+    margin-bottom: 0vw;
 }
 
 .loginInput {
@@ -34,7 +34,15 @@ body {
 
 #loginButton {
     width: 30vw;
-    margin-left: 35vw;
+    margin-left: 30vw;
+    color: black;
+    text-align: center;
+}
+
+a {
+    width: 0;
+    height: 0;
+    text-decoration: none;
 }
 
 .underLinks {
