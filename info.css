@@ -13,35 +13,22 @@ body {
     width: 100vw;
 }
 
-#bigLogo {
-    width: 80vw;
+#personPicture {
+    margin-top: 10vw;
+    width: 77vw;
     margin-left: 10vw;
     height: auto;
-    margin-top: 0;
-    margin-bottom: 10vw;
+    margin-top: 10vw;;
+    margin-bottom: 0vw;
+    border: 2vw solid black;
 }
 
-.loginInput {
+.infoText {
     margin-top: 5vw;
     width: 80vw;
     margin-left: 10vw;
-    height: 10vw;
-    background-color: rgb(240, 240, 240);
-    font-size: 7vw;
+    height: 10vw;    
+    font-size: 10vw;
     padding-left: 5vw;
     padding-right: 5vw;
-}
-
-#loginButton {
-    width: 30vw;
-    margin-left: 35vw;
-}
-
-.underLinks {
-    margin-top: 5vw;
-    width: 80vw;
-    margin-left: 10vw;
-    text-align: center;
-    color: rgb(0, 100, 255);
-    font-size: 5vw;
 }
